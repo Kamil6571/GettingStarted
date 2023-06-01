@@ -1,0 +1,15 @@
+/home/kamil/GettingStarted/bin/Debug/net7.0/GettingStarted
+/home/kamil/GettingStarted/bin/Debug/net7.0/GettingStarted.deps.json
+/home/kamil/GettingStarted/bin/Debug/net7.0/GettingStarted.runtimeconfig.json
+/home/kamil/GettingStarted/bin/Debug/net7.0/GettingStarted.dll
+/home/kamil/GettingStarted/bin/Debug/net7.0/GettingStarted.pdb
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.AssemblyReference.cache
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfoInputs.cache
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfo.cs
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.CoreCompileInputs.cache
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.dll
+/home/kamil/GettingStarted/obj/Debug/net7.0/refint/GettingStarted.dll
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.pdb
+/home/kamil/GettingStarted/obj/Debug/net7.0/GettingStarted.genruntimeconfig.cache
+/home/kamil/GettingStarted/obj/Debug/net7.0/ref/GettingStarted.dll
